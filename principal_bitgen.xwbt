@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Manuel\Desktop\xilinx\pr2\D7S\principal.ncd
+OUTFILE=C:\Users\Manuel\Desktop\xilinx\pr2\D7S\principal.bit
+FAMILY=Artix7
+PART=xc7a100t-3csg324
+WORKINGDIR=C:\Users\Manuel\Desktop\xilinx\pr2\D7S
+LICENSE=WebPack
+USER_INFO=__0_0_0
